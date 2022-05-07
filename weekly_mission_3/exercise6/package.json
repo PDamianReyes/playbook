@@ -1,0 +1,20 @@
+{
+    "name": "exercise6",
+    "version": "1.0.0",
+    "description": "\"Primer server con Express.js\"",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "node ./node_modules/jest/bin/jest"
+    },
+    "author": "damian reyes",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^27.5.1"
+    },
+    "dependencies": {
+      "express": "^4.17.3"
+    }
+  }
